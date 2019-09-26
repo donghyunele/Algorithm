@@ -1,4 +1,4 @@
-# Master로 이동
+# 2019년 9월 25일 ~ 알고리즘 (백준 / swexpertacademy / 기타)
 
 ### 참고 SITE
 
