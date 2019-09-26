@@ -1,4 +1,4 @@
-# 2019.09.25부터 시작된 개인 알고리즘 기록
+# Master로 이동
 
 ### 참고 SITE
 
@@ -21,3 +21,4 @@
 |10869.| [문제](https://www.acmicpc.net/problem/10869) |[사칙연산](https://github.com/donghyunele/algorithm/blob/20190926/190926/10869.py)|
 |10430.| [문제](https://www.acmicpc.net/problem/10430) |[나머지](https://github.com/donghyunele/algorithm/blob/20190926/190926/10430.py)|
 |2588.| [문제](https://www.acmicpc.net/problem/2588) |[곱셈](https://github.com/donghyunele/algorithm/blob/20190926/190926/2588.py)|
+=======
