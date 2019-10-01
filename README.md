@@ -50,4 +50,10 @@
 |2439.| [문제](https://www.acmicpc.net/problem/2439) |[별 찍기 - 2](https://github.com/donghyunele/algorithm/blob/master/190930/2439.py)|
 |10871.| [문제](https://www.acmicpc.net/problem/10871) |[X보다 작은 수](https://github.com/donghyunele/algorithm/blob/master/190930/10871.py)|
 
+---
+>[while문](https://www.acmicpc.net/step/2)
+---
+|10952.| [문제](https://www.acmicpc.net/problem/10952) |[A+B - 5](https://github.com/donghyunele/algorithm/blob/master/191001/10952.py)|
+|10951.| [문제](https://www.acmicpc.net/problem/10951) |[A+B - 4](https://github.com/donghyunele/algorithm/blob/master/191001/10951.py)|
+|1110.| [문제](https://www.acmicpc.net/problem/1110) |[더하기 사이클](https://github.com/donghyunele/algorithm/blob/master/191001/1110.py)|
 =======
